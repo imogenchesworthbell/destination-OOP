@@ -1,0 +1,24 @@
+{
+  "name": "classy-airport",
+  "version": "1.0.0",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202273653-1c259f67-7b01-46fc-8e4d-ccb804649e27.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/Classy-Airport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/Classy-Airport/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/Classy-Airport#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
